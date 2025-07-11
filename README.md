@@ -5,10 +5,11 @@ This project simulates such a system: an intelligent, data-driven pricing engine
 ## Tech Stack
 This project uses only basic python libraries like numpy, pandas and matplotlib for plotting and visualizations.
 
-Additionally, Pathway is used to simulate real-time data ingestion and emit pricing predictions continuously.
-
 ## Usage
 To generate prices for each timestamp and visualize the results, run:
 ```
 python main.py
 ```
+
+## Future Work
+Simulate real-time data ingestion and pricing using Pathway.
